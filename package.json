@@ -1,6 +1,7 @@
 {
   "name": "test-react-app",
-  "version": "0.1.0",
+  "homepage": "https://damien-monni.github.io/test-react-app",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
